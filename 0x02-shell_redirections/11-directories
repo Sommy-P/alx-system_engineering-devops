@@ -1,4 +1,4 @@
-#!bin/bash
-find . -type d ! -path . -print wc -1 \
+#!/bin/bash
+f . -type d !-path . -print | wc -1 \
 
 
